@@ -1,4 +1,4 @@
-f34b75f8f75198bac69d234a308813f3 *DESCRIPTION
+49f3b2105b594855989cc369d53d5093 *DESCRIPTION
 d00b1556fe8c321fc08dd7bdeed526d0 *NAMESPACE
 09e4cac764ec2085d3ac2bffa5be01ad *NEWS
 1d95b4f92755b4e72214c56994fdd04d *R/Eyam.R
@@ -8,15 +8,15 @@ d00b1556fe8c321fc08dd7bdeed526d0 *NAMESPACE
 bcd87d714ed20e4c98b3f32277433395 *R/SIR_prob.R
 2f6e0ba0f572ee6b66a3a55f4c487801 *R/bbd_prob.R
 6e57ffad620bf67aec05e1711fbd6fbc *R/dbd_prob.R
-216dc163dc9e8a7c40284424fed71e21 *README.md
+85ba1fbf3269d4b9a5f69f4a25d5ad51 *README.md
 c29f59ddeeae4463152aa69ea9a0930c *build/vignette.rds
 1c386750db87e6481f2f2e9f6d5b969b *data/Eyam.rda
 ae6ad9282cb1a14ed209cf0809607857 *inst/doc/SIR-MCMC.R
 0816b2c4d38db3abca36a1fda261f187 *inst/doc/SIR-MCMC.Rmd
-261c6c6b7290e99365478c697bb0dded *inst/doc/SIR-MCMC.pdf
+f6d4128d76095938479230944522da26 *inst/doc/SIR-MCMC.pdf
 3850c9442ba31f1f1dd0f7960f38a6f0 *inst/doc/SIRtrans.R
 59b072c6927b48bb75b8a3a7e747820f *inst/doc/SIRtrans.Rnw
-11d497be98b24644424c7784a60da1ea *inst/doc/SIRtrans.pdf
+5f2a195c47c996bd3b2e5998f127908b *inst/doc/SIRtrans.pdf
 b14d8b46bcb2afc129a0c13dcdead3b9 *inst/vignetteCache/gen_func.RData
 7a9f5676d6da0d3d84b0b72e46793274 *inst/vignetteCache/larger_pop.RData
 4a3b27554d5d7d622decfb625ec4c077 *inst/vignetteCache/monte_carlo.RData
@@ -37,7 +37,7 @@ e3163378cd9c1a59bf75b037dcac5fc7 *src/SIR_Cpp.cpp
 85651ade53285f8e04b79a39a1341c07 *src/ThreadPool.h
 8615f529529b530a10ca08ba41bc7cdc *src/bb_lt_Cpp.cpp
 5fd5f34f6e4dedfcc19cbf4eba3f8682 *src/bb_lt_invert_Cpp.cpp
-7e9293e62416f54f06484583927f6f18 *src/bbd.h
+2826bfc23270a9b7a7674fa07e689d97 *src/bbd.h
 6a2f61e50e40e250fa780c25af838943 *src/bbd_lt_Cpp.cpp
 8e0e71e6c81112071d1b60691f9a1ccc *src/bbd_lt_invert_Cpp.cpp
 d30d2e697ab69dc4d7d094027fbdd87a *src/inv_Bk1dBk_Cpp.cpp

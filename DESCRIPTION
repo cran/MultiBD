@@ -1,8 +1,8 @@
 Package: MultiBD
 Type: Package
 Title: Multivariate Birth-Death Processes
-Version: 1.0.0
-Date: 2025-11-27
+Version: 1.0.1
+Date: 2026-02-11
 Authors@R: c(person(given = c("Lam", "S.T."), family = "Ho", role = "aut"),
              person(given = c("Marc", "A."), family = "Suchard", role = c("aut", "cre"), email = "msuchard@ucla.edu"),
              person(given = c("Forrest", "W."), family = "Crawford", role = "aut"),
@@ -24,11 +24,11 @@ RoxygenNote: 7.3.2
 VignetteBuilder: knitr
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2025-11-29 16:45:53 UTC; msuchard
+Packaged: 2026-02-12 02:31:41 UTC; msuchard
 Author: Lam S.T. Ho [aut],
   Marc A. Suchard [aut, cre],
   Forrest W. Crawford [aut],
   Jason Xu [ctb],
   Vladimir N. Minin [ctb]
 Repository: CRAN
-Date/Publication: 2025-11-29 17:00:02 UTC
+Date/Publication: 2026-02-12 06:50:08 UTC
